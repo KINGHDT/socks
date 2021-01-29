@@ -28,9 +28,3 @@ linux系统
 完整支持UDP协议转发
 完整支持IPV4协议转发
 完整支持IPV6协议转发
-技术支持
-腾讯扣群：38181604
-腾讯扣扣：88966001
-腾讯微信：xiaoqidun
-电子邮箱：admin@aite.xyz
-技术论坛：https://forum.aite.xyz/
